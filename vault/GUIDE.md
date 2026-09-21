@@ -1,69 +1,54 @@
-# Sổ tay Atlas
+# So tay Atlas
 
-Trang đọc nhanh. Bấm vào nhóm:
+Trang doc nhanh. Bam vao nhom:
 
-- [Đà Nẵng — nhà](#đà-nẵng--5)
-- [Hà Nội — ăn](./GUIDE-ha-noi-eat.md) (56 quán, chia theo món)
-- [Hà Nội — tiệm bánh](./GUIDE-ha-noi-bakery.md) (10 tiệm từ thread @_m.trlv)
-- [Hà Nội — uống](#uống--hà-nội-1)
-- [Hà Nội — nhà hàng / date 500k](#nhà-hàng--hà-nội-11)
-- [Hội An](#hội-an-1)
+- [Da Nang — nha](#da-nang-5)
+- [Ha Noi — an](./GUIDE-ha-noi-eat.md)
+- [Ha Noi — tiem banh](./GUIDE-ha-noi-bakery.md)
+- [Ha Noi — cafe thu dong](./GUIDE-ha-noi-drink.md) (13 tu @hniluv.hh + lento)
+- [Ha Noi — nha hang / date 500k](#nha-hang--ha-noi-11)
+- [Hoi An](#hoi-an-1)
 
-Muốn tìm chữ: GitHub search trong file.
+## Da Nang (5)
 
-## Đà Nẵng (5)
+### Choi
 
-### Chơi
-
-- **Bãi Mỹ Khê** — Võ Nguyên Giáp · next · `da-nang-bai-my-khe`
-- **Bà Nà Hills** — Hòa Ninh, Hòa Vang · packed weekends · `da-nang-ba-na-hills`
+- **Bai My Khe** — Vo Nguyen Giap · next · `da-nang-bai-my-khe`
+- **Ba Na Hills** — Hoa Ninh, Hoa Vang · packed weekends · `da-nang-ba-na-hills`
 
 ### Xem
 
-- **Cầu Rồng** — Sông Hàn · next · `da-nang-cau-rong`
-- **Ngũ Hành Sơn** — Hòa Hải · `da-nang-ngu-hanh-son`
+- **Cau Rong** — Song Han · next · `da-nang-cau-rong`
+- **Ngu Hanh Son** — Hoa Hai · `da-nang-ngu-hanh-son`
 
 ### Mua
 
-- **Chợ Cồn** — Hải Châu · next · `da-nang-cho-con`
+- **Cho Con** — Hai Chau · next · `da-nang-cho-con`
 
-Lanes còn trống ở nhà: eat, drink, restaurant, do, stay.
+## Nha hang · Ha Noi (11)
 
-## Uống · Hà Nội (1)
+Thread ky niem ~500k/nguoi: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 
-- **lento.coffee.hn** — 10 ngõ 9 Đào Tấn · `ha-noi-lento-coffee`
-
-## Nhà hàng · Hà Nội (11)
-
-Thread kỷ niệm ~500k/người: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
-
-### Có giá trong comment
-
-- **Tuk Tuk Thai Bistro** — set 2 người ~600k, setup bàn · `ha-noi-tuk-tuk` · chưa có số nhà
-- **4P’s / 4P Tsu** — nhiều chi nhánh, ~500k/người · `ha-noi-4ps`
-- **Ái Huê** — trong budget · `ha-noi-ai-hue` · chưa có số nhà
-
-### Chỉ có tên
-
-- **Boss Kitchen** · `ha-noi-boss-kitchen` — comment: ngon và rẻ
+- **Tuk Tuk Thai Bistro** — set 2 nguoi ~600k · `ha-noi-tuk-tuk`
+- **4P's / 4P Tsu** — ~500k/nguoi · `ha-noi-4ps`
+- **Ai Hue** · `ha-noi-ai-hue`
+- **Boss Kitchen** · `ha-noi-boss-kitchen`
 - **La Maison** · `ha-noi-la-maison`
 - **Chiik** · `ha-noi-chiik`
-- **MẠN** · `ha-noi-man`
+- **MAN** · `ha-noi-man`
 - **The Ox Not Only Ox** · `ha-noi-ox`
 - **Jumarc** · `ha-noi-jumarc`
-- **Con Vịt Say / Drunk Duck** · `ha-noi-con-vit-say`
-- **Woo Master** · `ha-noi-woo-master` — combo 2 người
+- **Con Vit Say / Drunk Duck** · `ha-noi-con-vit-say`
+- **Woo Master** · `ha-noi-woo-master`
 
-Tất cả trừ 4P đều chưa có địa chỉ trong thread. Confirm trước khi đi.
+## Hoi An (1)
 
-## Hội An (1)
+- **Pho co Hoi An** — day trip tu Da Nang · `hoi-an-pho-co`
 
-- **Phố cổ Hội An** — day trip từ Đà Nẵng · `hoi-an-pho-co`
+## Inbox
 
-## Inbox còn treo
-
-- Lẩu gia đình phố Huế (quên tên) + chân gà quái thú Bách Khoa
-- Bánh đa cua Phùng Khoang / 42 Lý Thường Kiệt
-- Xôi Phú Thượng, xôi có topping
-- Số 1 Phan Bội Châu — comment tiệm bánh không tên tiệm
-- 220 comment tiệm bánh còn lại — login wall
+- Slide 2/2 thread cafe thu dong @hniluv.hh
+- Lau gia dinh pho Hue (quen ten) + chan ga quai thu Bach Khoa
+- Banh da cua Phung Khoang / 42 Ly Thuong Kiet
+- Xoi Phu Thuong
+- So 1 Phan Boi Chau — khong ten tiem
