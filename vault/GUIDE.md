@@ -1,56 +1,14 @@
 # So tay Atlas
 
-Trang doc nhanh. Bam vao nhom:
-
-- [Da Nang — nha](#da-nang-5)
-- [Ha Noi — an](./GUIDE-ha-noi-eat.md)
+- [Ha Noi — an](./GUIDE-ha-noi-eat.md) (batch screenshot o dau trang)
+- [Ha Noi — cafe](./GUIDE-ha-noi-drink.md)
 - [Ha Noi — tiem banh](./GUIDE-ha-noi-bakery.md)
-- [Ha Noi — cafe](./GUIDE-ha-noi-drink.md) (thu dong + maxxie + Long Bien + prssrepin)
-- [Ha Noi — nha hang / date 500k](#nha-hang--ha-noi-11)
-- [Hoi An](#hoi-an-1)
-
-## Da Nang (5)
-
-### Choi
-
-- **Bai My Khe** — Vo Nguyen Giap · next · `da-nang-bai-my-khe`
-- **Ba Na Hills** — Hoa Ninh, Hoa Vang · packed weekends · `da-nang-ba-na-hills`
-
-### Xem
-
-- **Cau Rong** — Song Han · next · `da-nang-cau-rong`
-- **Ngu Hanh Son** — Hoa Hai · `da-nang-ngu-hanh-son`
-
-### Mua
-
-- **Cho Con** — Hai Chau · next · `da-nang-cho-con`
-
-## Nha hang · Ha Noi (12)
-
-Thread ky niem ~500k/nguoi: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
-
-- **Tuk Tuk Thai Bistro** — set 2 nguoi ~600k · `ha-noi-tuk-tuk`
-- **4P's / 4P Tsu** — ~500k/nguoi · `ha-noi-4ps`
-- **Ai Hue** · `ha-noi-ai-hue`
-- **Boss Kitchen** · `ha-noi-boss-kitchen`
-- **La Maison** · `ha-noi-la-maison`
-- **Chiik** · `ha-noi-chiik`
-- **MAN** · `ha-noi-man`
-- **The Ox Not Only Ox** · `ha-noi-ox`
-- **Jumarc** · `ha-noi-jumarc`
-- **Con Vit Say / Drunk Duck** · `ha-noi-con-vit-say`
-- **Woo Master** · `ha-noi-woo-master`
-- **Bit Tet Ngoc Hieu 3** — 71 Tran Duy Hung · `ha-noi-bit-tet-ngoc-hieu-3`
-
-## Hoi An (1)
-
-- **Pho co Hoi An** — day trip tu Da Nang · `hoi-an-pho-co`
+- Batch chi tiet: `vault/viet-nam/ha-noi/eat-batch-screenshots.md` · `drink-batch-screenshots.md`
 
 ## Inbox
 
-- Slide 2/2 thread cafe thu dong @hniluv.hh
-- Thread @prssrepin con ~990 cmt chua doc
-- Lau gia dinh pho Hue (quen ten) + chan ga quai thu Bach Khoa
-- Banh da cua Phung Khoang / 42 Ly Thuong Kiet
-- Xoi Phu Thuong
-- So 1 Phan Boi Chau — khong ten tiem
+- Slide 2/2 @hniluv.hh
+- @prssrepin ~990 cmt
+- Bun Chui chua dia chi
+- Chim quay TDT quen ten
+- An Cuu Doi Can — SKIP (do)
