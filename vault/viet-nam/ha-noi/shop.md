@@ -86,7 +86,6 @@ Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet t
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
-- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 - notes: Comment "Bread Factory ngon vociiii". Khong tag, khong ghep handle.
@@ -103,7 +102,6 @@ Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet t
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
-- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 - notes: Cung account khen Bread Factory. Khong tag.
@@ -121,7 +119,6 @@ Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet t
 - city: Ha Noi
 - country: Viet Nam
 - area: Ha Dong
-- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 - notes: Comment "nha Xoai ben Ha Dong". Khong tag trong thread.
@@ -138,7 +135,6 @@ Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet t
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
-- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 - notes: Comment goi y mousse, nguoi viet tu nhan seeding. Khong tag handle trong comment.
@@ -155,7 +151,6 @@ Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet t
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
-- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 - notes: Comment "youth cake, thu redvelvet". Khong tag.
@@ -191,10 +186,25 @@ Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet t
 - country: Viet Nam
 - area: Long Bien
 - location: Ngoc Thuy
-- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 - notes: Comment bao search Facebook. Khong tag.
 - caveats: Khong co so nha.
+- added: 2026-09-22
+- updated: 2026-09-22
+
+## catlatcake
+
+- id: `ha-noi-catlatcake`
+- title: catlatcake
+- status: want
+- lane: shop
+- category: Tiem banh
+- city: Ha Noi
+- country: Viet Nam
+- location: 151 Nguyen Luong Bang
+- sources:
+  - https://www.threads.com/@karo.dimo/post/DHOLF8kTebP
+- notes: List tuan an @karo.dimo. Giu dung ten + so nha tren post. Khong gan handle vi post khong tag.
 - added: 2026-09-22
 - updated: 2026-09-22

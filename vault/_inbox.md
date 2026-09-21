@@ -17,3 +17,14 @@
 - Lau gia dinh pho Hue quen ten + chan ga quai thu Bach Khoa
 - Banh da cua Phung Khoang / 42 Ly Thuong Kiet
 - Xoi Phu Thuong, xoi co topping
+
+## @prssrepin 2026-06-13 (trang dau thoi)
+
+- source: https://www.threads.com/@prssrepin/post/DZghKGsGAto
+- ~1K cmt, login wall sau trang mo
+- Da file: maison3, Duong len Doi, Huong Mai 25 Ngu Xa
+- Chi co ten: Kem trung ba Khanh, Bun dau Tuan Troc, Cha ca Thang Long (mo ngay), Hung Ben (da co 33 Ngu Xa tu truoc)
+
+## Slide 2/2 @hniluv.hh
+
+- Chua co anh

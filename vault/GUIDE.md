@@ -5,7 +5,7 @@ Trang doc nhanh. Bam vao nhom:
 - [Da Nang — nha](#da-nang-5)
 - [Ha Noi — an](./GUIDE-ha-noi-eat.md)
 - [Ha Noi — tiem banh](./GUIDE-ha-noi-bakery.md)
-- [Ha Noi — cafe thu dong](./GUIDE-ha-noi-drink.md) (13 tu @hniluv.hh + lento)
+- [Ha Noi — cafe](./GUIDE-ha-noi-drink.md) (thu dong + maxxie + Long Bien + prssrepin)
 - [Ha Noi — nha hang / date 500k](#nha-hang--ha-noi-11)
 - [Hoi An](#hoi-an-1)
 
@@ -25,7 +25,7 @@ Trang doc nhanh. Bam vao nhom:
 
 - **Cho Con** — Hai Chau · next · `da-nang-cho-con`
 
-## Nha hang · Ha Noi (11)
+## Nha hang · Ha Noi (12)
 
 Thread ky niem ~500k/nguoi: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 
@@ -40,6 +40,7 @@ Thread ky niem ~500k/nguoi: https://www.threads.com/@nguyenngochieu_05/post/DdWe
 - **Jumarc** · `ha-noi-jumarc`
 - **Con Vit Say / Drunk Duck** · `ha-noi-con-vit-say`
 - **Woo Master** · `ha-noi-woo-master`
+- **Bit Tet Ngoc Hieu 3** — 71 Tran Duy Hung · `ha-noi-bit-tet-ngoc-hieu-3`
 
 ## Hoi An (1)
 
@@ -48,6 +49,7 @@ Thread ky niem ~500k/nguoi: https://www.threads.com/@nguyenngochieu_05/post/DdWe
 ## Inbox
 
 - Slide 2/2 thread cafe thu dong @hniluv.hh
+- Thread @prssrepin con ~990 cmt chua doc
 - Lau gia dinh pho Hue (quen ten) + chan ga quai thu Bach Khoa
 - Banh da cua Phung Khoang / 42 Ly Thuong Kiet
 - Xoi Phu Thuong

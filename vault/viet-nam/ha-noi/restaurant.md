@@ -1,6 +1,6 @@
 # Hà Nội — restaurant
 
-Categories: Pizza (1) · Thái (1) · Việt (1)
+Categories: Pizza (1) · Thái (1) · Việt (1) · Bít tết (1)
 
 ### Pizza
 
@@ -13,7 +13,6 @@ Categories: Pizza (1) · Thái (1) · Việt (1)
 - category: Pizza
 - city: Hà Nội
 - country: Việt Nam
-- area: 
 - location: Multiple branches
 - maps: 4P's Hà Nội
 - price: ~500k/person
@@ -22,7 +21,6 @@ Categories: Pizza (1) · Thái (1) · Việt (1)
 - sources:
   - https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - notes: Easy date-night budget. Chain — pick a branch.
-- caveats: 
 - added: 2026-09-22
 - updated: 2026-09-22
 
@@ -37,8 +35,6 @@ Categories: Pizza (1) · Thái (1) · Việt (1)
 - category: Thái
 - city: Hà Nội
 - country: Việt Nam
-- area: 
-- location: 
 - maps: Tuk Tuk Thai Bistro, Hà Nội
 - price: ~500–600k/person for two
 - tags: date
@@ -61,8 +57,6 @@ Categories: Pizza (1) · Thái (1) · Việt (1)
 - category: Việt
 - city: Hà Nội
 - country: Việt Nam
-- area: 
-- location: 
 - maps: Ái Huê, Hà Nội
 - price: ~500k/person
 - tags: date
@@ -71,5 +65,22 @@ Categories: Pizza (1) · Thái (1) · Việt (1)
   - https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - notes: Comment: good, inside the 500k/person cap.
 - caveats: Street address not in the source.
+- added: 2026-09-22
+- updated: 2026-09-22
+
+### Bít tết
+
+## Bít Tết Ngọc Hiếu 3
+
+- id: `ha-noi-bit-tet-ngoc-hieu-3`
+- status: want
+- lane: restaurant
+- category: Bít tết
+- city: Hà Nội
+- country: Việt Nam
+- location: 71 Trần Duy Hưng
+- sources:
+  - https://www.threads.com/@karo.dimo/post/DHOLF8kTebP
+- notes: List tuần ăn @karo.dimo. Giữ tên + số nhà như post.
 - added: 2026-09-22
 - updated: 2026-09-22

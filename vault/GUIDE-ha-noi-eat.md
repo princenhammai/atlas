@@ -1,6 +1,6 @@
 # Hà Nội — ăn
 
-56 quán, chia theo món. Mục lục: [GUIDE.md](./GUIDE.md).
+Cũ + batch sheet Threads 2026-09-22. Mục lục: [GUIDE.md](./GUIDE.md).
 
 ## Bánh cuốn
 
@@ -17,6 +17,10 @@
 ## Bánh đúc
 
 - **Bánh đúc ngõ 8B Lê Ngọc Hân** — Ngõ 8B Lê Ngọc Hân `ha-noi-banh-duc-le-ngoc-han`
+
+## Bánh trôi tàu
+
+- **Bánh trôi tàu nhà Bác Phạm Bằng** — 30 Hàng Giầy `ha-noi-banh-troi-tau-pham-bang` — kèm lục tào xá
 
 ## Bún chả
 
@@ -43,6 +47,8 @@
 ## Bún riêu
 
 - **Bún riêu Huyền Thu** — 2F Quang Trung `ha-noi-bun-rieu-huyen-thu`
+- **Bún riêu cuống tim** — 75 Hàng Bông `ha-noi-bun-rieu-cuong-tim` — sáng đến 12:30
+- **Bún riêu cô Lúa** — Hương Viên `ha-noi-bun-rieu-co-lua` — chưa số nhà
 
 ## Bún thang
 
@@ -52,6 +58,8 @@
 
 - **Bún đậu 7 Ngõ Gạch** — 7 Ngõ Gạch `ha-noi-bun-dau-7-ngo-gach`
 - **Bún đậu Phan Huy Ích** — Phan Huy Ích `ha-noi-bun-dau-phan-huy-ich` — xếp hàng lâu
+- **Bún đậu Chị Khuê** — 17 Quốc Tử Giám `ha-noi-bun-dau-chi-khue` — chỉ trưa, nghỉ T7–CN
+- **Bún đậu Tuấn Trọc** — chưa địa chỉ `ha-noi-bun-dau-tuan-troc`
 
 ## Bún ốc
 
@@ -68,18 +76,29 @@
 - **Chả cá 3B Phùng Hưng** — 3B Phùng Hưng `ha-noi-cha-ca-3b-phung-hung`
 - **Chả cá Lã Vọng** — 14 Chả Cá `ha-noi-cha-ca-la-vong`
 - **Chả cá Phan** — Ngô Thì Nhậm `ha-noi-cha-ca-phan`
+- **Chả cá Thăng Long** — chưa địa chỉ `ha-noi-cha-ca-thang-long` — reply: mỡ ngấy dầu
+
+## Chè
+
+- **Chè Ký Gia** — tập thể 103 Nguyễn Trường Tộ `ha-noi-che-ky-gia`
 
 ## Cơm
 
 - **Cơm Bắc Tầm Vị** — SKIP `ha-noi-com-bac-tam-vi` — đừng đi ăn tầm vị
 - **Cơm Phố Cổ** — 16 Nguyễn Siêu `ha-noi-com-pho-co`
 - **New Day / Một Ngày Mới** — 72 Mã Mây `ha-noi-new-day`
+- **Cơm gà Nha Trang Cô Ba** — 51 Bồ Đề `ha-noi-com-ga-co-ba`
+
+## Kem trứng
+
+- **Kem trứng bà Khanh** — chưa số nhà trên thread `ha-noi-kem-trung-ba-khanh` — ăn kèm bánh mì
 
 ## Lẩu
 
 - **Lẩu Thái Đặng Dung** — Đặng Dung `ha-noi-lau-thai-dang-dung`
 - **Lẩu tôm bầu** — 8 Đặng Dung `ha-noi-lau-tom-bau`
 - **Lẩu ếch 69 Phó Đức Chính** — 69 Phó Đức Chính `ha-noi-lau-ech-pho-duc-chinh`
+- **Lẩu Phiêu** — 20 Lê Đại Hành `ha-noi-lau-phieu` — ~169k/người
 
 ## Miến lươn
 
@@ -93,6 +112,7 @@
 ## Ngan
 
 - **Ngan Hàng Lược** — Hàng Lược `ha-noi-ngan-hang-luoc`
+- **Ngan Yến Phương** — 65 Lý Nam Đế `ha-noi-ngan-yen-phuong`
 
 ## Ngan cháy tỏi
 
@@ -105,7 +125,7 @@
 
 ## Phở
 
-- **Chinh Thắng** — chưa rõ món/address `ha-noi-chinh-thang`
+- **Chinh Thắng** — chưa rõ món/address `ha-noi-chinh-thang` — tranh chấp / Michelin
 - **Phở 49 Bát Đàn** — 49 Bát Đàn `ha-noi-pho-49-bat-dan`
 - **Phở Khôi Hói** — Hàng Vải `ha-noi-pho-khoi-hoi` — khen/chê trái chiều
 - **Phở Lý Quốc Sư** — 27B Phùng Hưng `ha-noi-pho-ly-quoc-su`
@@ -113,14 +133,21 @@
 - **Phở Thìn** — 13 Lò Đúc / 19 Hàng Vôi `ha-noi-pho-thin` — địa chỉ lệch, giá cao, chờ lâu
 - **Phở Tần** — Nguyễn Trường Tộ `ha-noi-pho-tan`
 - **Số 2 Cửa Bắc** — parked `ha-noi-pho-so-2-cua-bac` — đắt / chờ; cũng được gợi ý thay Thìn
+- **Phở bà Tuyết** — 12 Hàng Than `ha-noi-pho-ba-tuyet`
 
 ## Phở cuốn
 
 - **Phở cuốn Hưng Bền** — 33 Ngũ Xã `ha-noi-pho-cuon-hung-ben`
+- **Phở cuốn Hương Mai** — 25 Ngũ Xã `ha-noi-pho-cuon-huong-mai` — khen chiên phồng
 
 ## Phở trộn
 
 - **Phở trộn Hạnh** — chưa có địa chỉ `ha-noi-pho-tron-hanh` — nên ăn trộn, nước nhạt
+
+## Phở xào
+
+- **Phở xào bà Thanh Béo** — 11 Hàng Buồm `ha-noi-pho-xao-ba-thanh-beo` — tối đến rạng sáng
+- **Phở xào Phú Mỹ** — 45 Bát Đàn `ha-noi-pho-xao-phu-my` — tim cật có lúc hôi
 
 ## Xôi
 
