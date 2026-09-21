@@ -35,7 +35,27 @@ If locals say "don't go" or "address is wrong", still keep the entry and put tha
 
 Do not invent street numbers. Empty `location` is better than a guessed one.
 
+Do not invent names. If a comment only has a tag, the title is the display name on that profile. If the profile is login-walled, the title is the handle itself (`@zenithcake`), not a guessed shop name.
+
 Preserve original-language names. Do not translate proper nouns.
+
+## 2b. Follow tags and shop links
+
+When a comment tags or links a shop (`@handle`, Threads/IG/FB URL):
+
+1. Open that profile. Save the handle as-is.
+2. Title = display name on the profile. If missing, title = `@handle`.
+3. Address / hours / phone only if the shop wrote them on its own profile or post. Label the source: `from shop profile`.
+4. Store handles on the entry:
+
+```text
+- handles:
+  - threads: @somalicat_bakery
+  - instagram: somalicat_bakery
+```
+
+5. Add the profile URL to `sources`.
+6. Do not match a similar-sounding shop from Google and pretend it is the tagged one. If the name in the comment has no tag and several shops share the name, keep the comment name and leave handles empty.
 
 ## 3. Classify
 
@@ -69,7 +89,7 @@ Lane cheat sheet:
 - `do` — class, workshop, skill, quest, activity with intent
 - `stay` — hotel, homestay, hostel
 - `see` — landmark, museum, temple, viewpoint, old town
-- `shop` — market, store, maker
+- `shop` — market, store, maker, bakery pickup
 
 Worldwide. Not Vietnam-only. Home city is Đà Nẵng.
 

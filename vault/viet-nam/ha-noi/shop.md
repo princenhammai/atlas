@@ -1,121 +1,173 @@
-# Hà Nội — shop
+# Ha Noi — shop
 
-## Tiem banh (10) · source 2024-10-01 thread xin 1000 tiem, khong brand lon
+## Tiem banh · @_m.trlv 2024-10-01
 
-Source: https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
+Source thread: https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
 
-Login-walled after the first comment page. Chi file quan co ten trong comment hien duoc.
+Title = ten tren profile hoac dung handle. Dia chi chi lay khi chinh tiem viet tren page cua ho.
 
-### Tiem banh
+### Co tag trong comment
 
-## Bread Factory
+## @zenithcake
 
-- id: `ha-noi-bread-factory`
+- id: `ha-noi-zenithcake`
+- title: @zenithcake
 - status: want
 - priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
-- area:
-- location:
-- maps:
-- tags: thread-bakery
-- context: travel
+- handles:
+  - threads: @zenithcake
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment "Bread Factory ngon vociiii".
-- caveats: Khong co dia chi trong source.
+  - https://www.threads.com/@zenithcake
+- notes: Comment tag @zenithcake — tron mut vao kem ben ngoai, ngot thanh, re, ngon. Profile Threads login-walled; khong dat ten khac.
+- caveats: Chua doc duoc display name / dia chi tren profile.
+- added: 2026-09-22
+- updated: 2026-09-22
+
+## Somalicat / Somali Cat
+
+- id: `ha-noi-somalicat-bakery`
+- title: Somalicat (Somali Cat)
+- status: want
+- priority: someday
+- lane: shop
+- category: Tiem banh
+- city: Ha Noi
+- country: Viet Nam
+- area: Thanh Xuan / Hai Ba Trung
+- location: CS1 10 ngo 149/192 Le Trong Tan, Thanh Xuan; CS2 88 Bach Mai, Hai Ba Trung; CS3 142 Nguyen Huy Tuong, Thanh Xuan Trung
+- handles:
+  - threads: @somalicat_bakery
+  - instagram: somalicat_bakery
+- tags: local-disputed
+- sources:
+  - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
+  - https://www.threads.com/@somalicat_bakery
+  - https://www.instagram.com/somalicat_bakery/
+- notes: Tag @somalicat_bakery. Display name Threads: Banh Ngot Va Tra Sua. Comment: tira + BLTM best seller tu dot dich; mousse chanh day hom nay di xuong. Shop reply se tiep thu. Dia chi / sdt 0363952677 / 8h-21h30 lay tu page cua tiem.
+- caveats: IG 2026-03-25 tiem thong bao dong CS Nguyen Khang (CS4 325A Nguyen Khang). Comment le Trong Tan cung hoi dong — confirm truoc khi di.
+- added: 2026-09-22
+- updated: 2026-09-22
+
+## @kyungee__kitchen
+
+- id: `ha-noi-kyungee-kitchen`
+- title: Lvkl tap nau nuong
+- status: want
+- priority: someday
+- lane: shop
+- category: Tiem banh
+- city: Ha Noi
+- country: Viet Nam
+- area: Thanh Xuan
+- handles:
+  - threads: @kyungee__kitchen
+- tags: self-promo
+- sources:
+  - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
+  - https://www.threads.com/@kyungee__kitchen
+- notes: Tu comment. Display name: Lvkl tap nau nuong. Bio: Mn mua banh ung ho t iii. Profile ghi Thanh Xuan, Ha Noi — khong co so nha.
+- caveats: Home baker, self-promo.
+- added: 2026-09-22
+- updated: 2026-09-22
+
+### Ten trong comment, khong tag
+
+## Bread Factory
+
+- id: `ha-noi-bread-factory`
+- title: Bread Factory
+- status: want
+- lane: shop
+- category: Tiem banh
+- city: Ha Noi
+- country: Viet Nam
+- handles:
+- sources:
+  - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
+- notes: Comment "Bread Factory ngon vociiii". Khong tag, khong ghep handle.
+- caveats: Chua co dia chi.
 - added: 2026-09-22
 - updated: 2026-09-22
 
 ## Mycious
 
 - id: `ha-noi-mycious`
+- title: Mycious
 - status: want
-- priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
+- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Cung account khen Bread Factory, comment tiep "Mycious".
-- caveats: Khong co dia chi trong source.
+- notes: Cung account khen Bread Factory. Khong tag.
+- caveats: Chua co dia chi. Khong ghep shop tuong tu.
 - added: 2026-09-22
 - updated: 2026-09-22
 
 ## Nha Xoai
 
 - id: `ha-noi-nha-xoai`
+- title: Nha Xoai
 - status: want
-- priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
 - area: Ha Dong
-- location:
+- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment "nha Xoai ben Ha Dong".
-- caveats: Thread chi noi quan + quan. Khong lay so nha tu web khac.
+- notes: Comment "nha Xoai ben Ha Dong". Khong tag trong thread.
+- caveats: Khong gan handle / so nha tu web khac.
 - added: 2026-09-22
 - updated: 2026-09-22
 
 ## Laberry
 
 - id: `ha-noi-laberry`
+- title: Laberry
 - status: want
-- priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
+- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment goi y neu mua mousse. Nguoi viet tu nhan seeding.
-- caveats: Khong co dia chi trong source.
-- added: 2026-09-22
-- updated: 2026-09-22
-
-## Zenith Cake
-
-- id: `ha-noi-zenith-cake`
-- status: want
-- priority: someday
-- lane: shop
-- category: Tiem banh
-- city: Ha Noi
-- country: Viet Nam
-- sources:
-  - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment @zenithcake — tron mut vao kem ben ngoai, ngot thanh, re, ngon.
-- caveats: Khong co dia chi trong source.
+- notes: Comment goi y mousse, nguoi viet tu nhan seeding. Khong tag handle trong comment.
+- caveats: Co shop @laberryvietnam (82 Nguyen Phuc Lai) tren IG — CHUA GAN vao entry nay vi comment khong tag. Confirm roi moi merge.
 - added: 2026-09-22
 - updated: 2026-09-22
 
 ## Youth Cake
 
 - id: `ha-noi-youth-cake`
+- title: Youth Cake
 - status: want
-- priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
+- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment goi y thu red velvet.
-- caveats: Khong co dia chi trong source.
+- notes: Comment "youth cake, thu redvelvet". Khong tag.
+- caveats: Co shop Youth Cake / @youthsfamily (Chinh Kinh, Nguyen Ngoc Doan) — CHUA GAN vi comment khong tag. Confirm roi moi merge.
 - added: 2026-09-22
 - updated: 2026-09-22
 
 ## Beard Papa's
 
 - id: `ha-noi-beard-papas`
+- title: Beard Papa's
 - status: want
-- priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
@@ -123,59 +175,26 @@ Login-walled after the first comment page. Chi file quan co ten trong comment hi
 - tags: chain
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment goi y neu thich sukem.
-- caveats: Chuoi. OP xin tranh brand lon — van giu vi co ten ro.
+- notes: Comment goi y sukem.
+- caveats: Chuoi. OP xin tranh brand lon.
 - added: 2026-09-22
 - updated: 2026-09-22
 
 ## Tiem nha Cuu
 
 - id: `ha-noi-tiem-nha-cuu`
+- title: Tiem nha Cuu
 - status: want
-- priority: someday
 - lane: shop
 - category: Tiem banh
 - city: Ha Noi
 - country: Viet Nam
 - area: Long Bien
 - location: Ngoc Thuy
+- handles:
 - sources:
   - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Comment hay mua o Ngoc Thuy, Long Bien. Bao search Facebook.
+- notes: Comment bao search Facebook. Khong tag.
 - caveats: Khong co so nha.
-- added: 2026-09-22
-- updated: 2026-09-22
-
-## Somalicat Bakery
-
-- id: `ha-noi-somalicat-bakery`
-- status: want
-- priority: someday
-- lane: shop
-- category: Tiem banh
-- city: Ha Noi
-- country: Viet Nam
-- tags: local-disputed
-- sources:
-  - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: @somalicat_bakery. Mua tu dot dich. Tiramisu va BLTM best seller. Tung an mousse chanh day.
-- caveats: Cung comment — chat luong mousse hom nay di xuong. Shop reply se tiep thu.
-- added: 2026-09-22
-- updated: 2026-09-22
-
-## Kyungee Kitchen
-
-- id: `ha-noi-kyungee-kitchen`
-- status: want
-- priority: someday
-- lane: shop
-- category: Tiem banh
-- city: Ha Noi
-- country: Viet Nam
-- tags: self-promo
-- sources:
-  - https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: @kyungee__kitchen tu comment "Da sop t c oiii".
-- caveats: Self-promo. Khong co dia chi.
 - added: 2026-09-22
 - updated: 2026-09-22
