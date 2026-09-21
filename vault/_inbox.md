@@ -2,20 +2,14 @@
 
 Unlocated or unnamed dumps land here. Promote them into `vault/{country}/{city}/{lane}.md` once city + lane are known.
 
-## Ask — 1000 familiar HN bakeries
-
-- source: https://www.threads.com/@_m.trlv/post/DAkVtqQSzok
-- notes: Wants 1000 familiar Hà Nội bakeries; comments not captured.
-- next: Capture comments / named replies before filing.
-
-## Search — tiệm bánh Hà Nội
+## Search — tiệm bánh Hà Nội (residual)
 
 - source: https://www.threads.com/search?q=tiệm%20bánh%20hà%20nội
-- notes: No durable venue names from fetch.
-- next: Re-fetch or browse manually for named shops.
+- notes: Named shops from browse were filed into eat.md / drink.md. Residual search noise with no durable venue name left here.
+- next: Re-scan only if a new named shop appears.
 
-## @_tiemchucanho carousel bakeries pending
+## @_tiemchucanho carousel (residual)
 
 - source: https://www.threads.com/@_tiemchucanho/post/DMINujeTtmU
-- notes: Carousel names other HN bakeries; not yet extracted. Parent shop filed as Tiệm chú cá nhỏ (address unknown).
-- next: Extract carousel names into eat.md Tiệm bánh.
+- notes: Comment-named bakeries filed. Any remaining carousel-only names without clear title still pending OCR/extract.
+- next: Extract leftover carousel labels if any remain unnamed.
