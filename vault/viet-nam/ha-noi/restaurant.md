@@ -1,8 +1,12 @@
 # Hà Nội — restaurant
 
+Categories: Thái (1) · Pizza (1) · Việt (1)
+
 Sit-down dining from the anniversary-dinner thread (~500k/person).
 
 Source: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
+
+### Thái
 
 ## Tuk Tuk Thai Bistro
 
@@ -12,13 +16,15 @@ Source: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - category: Thái
 - city: Hà Nội
 - country: Việt Nam
-- area:
-- location:
+- area: 
+- location: 
 - price: ~500–600k/person for two
 - sources:
   - https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - notes: Set for two around 600k. Dressed-up room, staff will help stage the table.
 - caveats: Street address not in the source. Confirm before going.
+
+### Pizza
 
 ## 4P’s / 4P Tsu
 
@@ -28,13 +34,15 @@ Source: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - category: Pizza
 - city: Hà Nội
 - country: Việt Nam
-- area:
+- area: 
 - location: Multiple branches
 - price: ~500k/person
 - sources:
   - https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - notes: Easy date-night budget. Chain, pick a branch.
-- caveats:
+- caveats: 
+
+### Việt
 
 ## Ái Huê
 
@@ -44,8 +52,8 @@ Source: https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
 - category: Việt
 - city: Hà Nội
 - country: Việt Nam
-- area:
-- location:
+- area: 
+- location: 
 - price: ~500k/person
 - sources:
   - https://www.threads.com/@nguyenngochieu_05/post/DdWe13WGpcZ
