@@ -5,10 +5,17 @@
 - [cafe](./GUIDE-ha-noi-drink.md)
 - [tiem banh](./GUIDE-ha-noi-bakery.md)
 
+## Da Nang
+- [toan bo DN](./GUIDE-da-nang.md)
+- raw: `vault/viet-nam/da-nang/eat.md` · `see.md`
+
+## Hue
+- [toan bo Hue](./GUIDE-hue.md)
+- raw: `vault/viet-nam/hue/eat.md` · `see.md`
+
 ## Sai Gon
 - [toan bo SG](./GUIDE-sai-gon.md)
 - raw: `vault/viet-nam/sai-gon/eat.md` · `snack.md` · `drink.md`
-- source: https://docs.google.com/spreadsheets/d/1mXwdIIs5MPfXaIqcz1KsWsxkwW04ylCGJbdnuioeXUU/htmlview `@nhuquynh_d`
 
 ## Inbox HN
 - Slide 2/2 @hniluv.hh
