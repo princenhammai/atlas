@@ -4,13 +4,12 @@ Trang đọc nhanh. Bấm vào nhóm:
 
 - [Đà Nẵng — nhà](#đà-nẵng--5)
 - [Hà Nội — ăn](./GUIDE-ha-noi-eat.md) (56 quán, chia theo món)
+- [Hà Nội — tiệm bánh](./GUIDE-ha-noi-bakery.md) (10 tiệm từ thread @_m.trlv)
 - [Hà Nội — uống](#uống--hà-nội-1)
 - [Hà Nội — nhà hàng / date 500k](#nhà-hàng--hà-nội-11)
 - [Hội An](#hội-an-1)
 
-Muốn tìm chữ: GitHub search trong file, hoặc mở `docs/index.html` (ô tìm ở đầu trang).
-
-Nguồn: 5 thread đã check ngày 22/09/2026.
+Muốn tìm chữ: GitHub search trong file.
 
 ## Đà Nẵng (5)
 
@@ -63,7 +62,8 @@ Tất cả trừ 4P đều chưa có địa chỉ trong thread. Confirm trước
 
 ## Inbox còn treo
 
-- Lẩu gia đình phố Huế (quên tên) + chân gà quái thú Bách Khoa — thread NAM
-- Bánh đa cua Phùng Khoang / 42 Lý Thường Kiệt — thread Tú Uyên
-- Xôi Phú Thượng, xôi có topping — không đủ tên quán
-- Tiệm bánh Hà Nội carousel — vẫn cần screenshot
+- Lẩu gia đình phố Huế (quên tên) + chân gà quái thú Bách Khoa
+- Bánh đa cua Phùng Khoang / 42 Lý Thường Kiệt
+- Xôi Phú Thượng, xôi có topping
+- Số 1 Phan Bội Châu — comment tiệm bánh không tên tiệm
+- 220 comment tiệm bánh còn lại — login wall
