@@ -1,21 +1,23 @@
 # So tay Atlas
 
+Format chuoi: **Ten** — dia chi · ghi chu.
+
 ## Ha Noi
 - [an](./GUIDE-ha-noi-eat.md)
 - [cafe](./GUIDE-ha-noi-drink.md)
 - [tiem banh](./GUIDE-ha-noi-bakery.md)
 
 ## Da Nang
-- [toan bo DN](./GUIDE-da-nang.md)
-- raw: `vault/viet-nam/da-nang/eat.md` · `see.md`
+- [doc nhanh](./GUIDE-da-nang.md)
+- raw: [`eat`](./viet-nam/da-nang/eat.md) · [`drink`](./viet-nam/da-nang/drink.md) · [`see`](./viet-nam/da-nang/see.md)
 
 ## Hue
-- [toan bo Hue](./GUIDE-hue.md)
-- raw: `vault/viet-nam/hue/eat.md` · `see.md`
+- [doc nhanh](./GUIDE-hue.md)
+- raw: [`eat`](./viet-nam/hue/eat.md) · [`see`](./viet-nam/hue/see.md)
 
 ## Sai Gon
-- [toan bo SG](./GUIDE-sai-gon.md)
-- raw: `vault/viet-nam/sai-gon/eat.md` · `snack.md` · `drink.md`
+- [doc nhanh](./GUIDE-sai-gon.md)
+- raw: [`eat`](./viet-nam/sai-gon/eat.md) · [`snack`](./viet-nam/sai-gon/snack.md) · [`drink`](./viet-nam/sai-gon/drink.md)
 
 ## Inbox HN
 - Slide 2/2 @hniluv.hh
