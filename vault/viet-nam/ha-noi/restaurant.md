@@ -1,6 +1,6 @@
 # Hà Nội — restaurant
 
-Categories: Pizza (1) · Thái (1) · Việt (1) · Bít tết (1)
+Categories: Pizza (1) · Thái (1) · Việt (1) · Bít tết (1) · Date / ngồi (12)
 
 ### Pizza
 
@@ -84,3 +84,25 @@ Categories: Pizza (1) · Thái (1) · Việt (1) · Bít tết (1)
 - notes: List tuần ăn @karo.dimo. Giữ tên + số nhà như post.
 - added: 2026-09-22
 - updated: 2026-09-22
+
+## Date / ngồi — thu đông 2026
+
+Format: **Tên** — địa chỉ · ghi chú.
+Nguồn: @chichinguyen2026 · story dining date. Filed 2026-09-23.
+
+### Fine / book
+- **Chapter Dining** — 12C Chân Cầm, Hoàn Kiếm · T2–T7 18h–23h · 0333 201 221
+- **Khuê Restaurant** — tầng 12 Le Jardin, 46A Nguyễn Trường Tộ, Trúc Bạch · 11h–22/23h · Chef Tú Phan
+- **VINCI Cucina & Vino** — Dusit Le Palais, 9/413 Âu Cơ, Tây Hồ
+- **El Gaucho** — chuỗi: 12–14 Ấu Triệu · Vincom 29 Liễu Giai · 168A Xuân Diệu · Lotte West Lake · Tràng Tiền
+
+### Hẹn vừa
+- **Pezzi Liễu Giai** — nhà 10, ngõ 9 Liễu Giai · 10h–22h · @pezzieatery · + CS ngách 5 ngõ Hội Vũ
+- **LiT Restobar** — 158 Lê Duẩn, Văn Miếu–QTGiám · fusion Âu
+- **Nhạn Eatery** — 15 Cửa Nam, Hoàn Kiếm · 18h–2h · rượu + nến
+- **Basta Hiro** — tầng 2 Vincom Metropolis, 29 Liễu Giai · pizza Ý
+- **Botanica since 2012** — 3 Thái Phiên · 116/D4 Giảng Võ · 54 Trung Hòa
+- **La Grupta Steak House** — 148 Trung Liệt, Đống Đa
+
+### Lỏng
+- **Lạc – Lost and Chill** — 37 Phan Kế Bình, Giảng Võ · mì/cháo, sân trong
