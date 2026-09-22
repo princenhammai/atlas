@@ -1,7 +1,7 @@
 # Đà Nẵng — uống / cafe
 
 Format: **Tên** — địa chỉ · ghi chú.
-Nguồn: sheet ăn uống · @sulyyie_ · @danangchill.cafe · list 30 @gacmai · @lostcafeeatery · Hi4 post. Filed 2026-09-22.
+Nguồn: sheet ăn uống · @sulyyie_ · @danangchill.cafe · list 30 @gacmai · @lostcafeeatery · Hi4 · @l.baycoffee. Filed 2026-09-22/23.
 
 **SKIP đồ:** Starbucks (chuỗi) · Holiday Beach (KS).
 Số nhà chỉ ghi khi nguồn đã có.
@@ -28,6 +28,7 @@ Số nhà chỉ ghi khi nguồn đã có.
 - **34 Tropical** — 155 Lê Đình Lý
 - **Chái nhà xanh** — K48/5 Lý Tự Trọng · sách; đồ 25–30k
 - **Lost** — 57/9 Lê Hồng Phong · @lostcafeeatery · hẻm, kính màu; đẹp chưa ưu tiên đồ
+- **Bảy Coffee** — K227/92 Nguyễn Văn Thoại · @l.baycoffee · bakery, chill / modernism
 
 ## List @gacmai — đã đi / đẹp (chưa số, đồ chưa ưu tiên)
 - **V7 Tab**
