@@ -1,7 +1,7 @@
 # Đà Nẵng — uống / cafe
 
 Format: **Tên** — địa chỉ · ghi chú.
-Nguồn: sheet ăn uống · @sulyyie_ · @danangchill.cafe · list 30 @gacmai · @lostcafeeatery. Filed 2026-09-22.
+Nguồn: sheet ăn uống · @sulyyie_ · @danangchill.cafe · list 30 @gacmai · @lostcafeeatery · Hi4 post. Filed 2026-09-22.
 
 **SKIP đồ:** Starbucks (chuỗi) · Holiday Beach (KS).
 Số nhà chỉ ghi khi nguồn đã có.
@@ -12,6 +12,13 @@ Số nhà chỉ ghi khi nguồn đã có.
 - **Okoro** — 131 Đặng Vũ Hỷ · slow bar; đóng T4 ~9h–17h30
 - **Offkoast** — 1 Nguyễn Duy Hiệu
 - **Dapen** — 136/15A Hải Phòng · hẻm industrial
+
+## Workspace / học bài
+- **Hi4 Coffee & Workspace** — 24/7 · 0934 98 03 09
+  - CS1: 120–126 Mai Thúc Lân, Ngũ Hành Sơn (MTL × Hoàng Kế Viêm)
+  - CS2: 02 Nguyễn Văn Trỗi, Hòa Cường (Núi Thành × Duy Tân, gần vòng xoay Trần Thị Lý)
+  - đỗ ô tô CS2: bãi cầu Trần Thị Lý, trục 2/9, ~3 phút bộ
+  - cmt: hợp đọc vì không vào mạng
 
 ## Có số (sheet / listing)
 - **BonPas Bakery & Cafe** — 68 Hàm Nghi
